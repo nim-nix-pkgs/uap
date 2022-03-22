@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-uap-master.flake = false;
+  inputs.src-uap-master.ref   = "refs/heads/master";
   inputs.src-uap-master.owner = "artemklevtsov";
-  inputs.src-uap-master.ref   = "master";
   inputs.src-uap-master.repo  = "nim-uap";
   inputs.src-uap-master.type  = "gitlab";
   
