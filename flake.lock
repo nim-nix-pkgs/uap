@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "v1_5_25",
-        "lastModified": 1658031798,
-        "narHash": "sha256-DDoj+5wLyWO2i8z8Y7sci6EVmki+F7COIWVu7NUAxfo=",
+        "lastModified": 1658201311,
+        "narHash": "sha256-vNrNDEH+CnURGtMVBpTewF2mjecTl/HikCN8ao316Go=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "b91968ec6df808ca63f0ab5706e5d3d29b538270",
+        "rev": "0206b7f4f56224b1eed9ca45340176bde05bcac7",
         "type": "github"
       },
       "original": {
@@ -620,11 +620,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658032983,
-        "narHash": "sha256-CdBIpBRWDDPyVGCx9qUxIi9XIWJqXG4RJiALRHfGOeE=",
+        "lastModified": 1658203020,
+        "narHash": "sha256-IB2WlxkQpHQBkX8BLRc+zMdPz20Gf+utzirkRSqqjmo=",
         "owner": "nim-nix-pkgs",
         "repo": "uap",
-        "rev": "01d16cd24a64101653e3cf9bd278ed1c2a22d8c1",
+        "rev": "d46944249e226e34e9b3aa13663c8fb08bc6384d",
         "type": "github"
       },
       "original": {
@@ -649,11 +649,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1658032983,
-        "narHash": "sha256-CdBIpBRWDDPyVGCx9qUxIi9XIWJqXG4RJiALRHfGOeE=",
+        "lastModified": 1658203020,
+        "narHash": "sha256-IB2WlxkQpHQBkX8BLRc+zMdPz20Gf+utzirkRSqqjmo=",
         "owner": "nim-nix-pkgs",
         "repo": "uap",
-        "rev": "01d16cd24a64101653e3cf9bd278ed1c2a22d8c1",
+        "rev": "d46944249e226e34e9b3aa13663c8fb08bc6384d",
         "type": "github"
       },
       "original": {
@@ -678,11 +678,11 @@
       },
       "locked": {
         "dir": "v1_0_1",
-        "lastModified": 1658032983,
-        "narHash": "sha256-CdBIpBRWDDPyVGCx9qUxIi9XIWJqXG4RJiALRHfGOeE=",
+        "lastModified": 1658203020,
+        "narHash": "sha256-IB2WlxkQpHQBkX8BLRc+zMdPz20Gf+utzirkRSqqjmo=",
         "owner": "nim-nix-pkgs",
         "repo": "uap",
-        "rev": "01d16cd24a64101653e3cf9bd278ed1c2a22d8c1",
+        "rev": "d46944249e226e34e9b3aa13663c8fb08bc6384d",
         "type": "github"
       },
       "original": {
@@ -707,11 +707,11 @@
       },
       "locked": {
         "dir": "v1_0_2",
-        "lastModified": 1658032983,
-        "narHash": "sha256-CdBIpBRWDDPyVGCx9qUxIi9XIWJqXG4RJiALRHfGOeE=",
+        "lastModified": 1658203020,
+        "narHash": "sha256-IB2WlxkQpHQBkX8BLRc+zMdPz20Gf+utzirkRSqqjmo=",
         "owner": "nim-nix-pkgs",
         "repo": "uap",
-        "rev": "01d16cd24a64101653e3cf9bd278ed1c2a22d8c1",
+        "rev": "d46944249e226e34e9b3aa13663c8fb08bc6384d",
         "type": "github"
       },
       "original": {
@@ -736,11 +736,11 @@
       },
       "locked": {
         "dir": "v1_0_3",
-        "lastModified": 1658032983,
-        "narHash": "sha256-CdBIpBRWDDPyVGCx9qUxIi9XIWJqXG4RJiALRHfGOeE=",
+        "lastModified": 1658203020,
+        "narHash": "sha256-IB2WlxkQpHQBkX8BLRc+zMdPz20Gf+utzirkRSqqjmo=",
         "owner": "nim-nix-pkgs",
         "repo": "uap",
-        "rev": "01d16cd24a64101653e3cf9bd278ed1c2a22d8c1",
+        "rev": "d46944249e226e34e9b3aa13663c8fb08bc6384d",
         "type": "github"
       },
       "original": {
@@ -765,11 +765,11 @@
       },
       "locked": {
         "dir": "v1_0_4",
-        "lastModified": 1658032983,
-        "narHash": "sha256-CdBIpBRWDDPyVGCx9qUxIi9XIWJqXG4RJiALRHfGOeE=",
+        "lastModified": 1658203020,
+        "narHash": "sha256-IB2WlxkQpHQBkX8BLRc+zMdPz20Gf+utzirkRSqqjmo=",
         "owner": "nim-nix-pkgs",
         "repo": "uap",
-        "rev": "01d16cd24a64101653e3cf9bd278ed1c2a22d8c1",
+        "rev": "d46944249e226e34e9b3aa13663c8fb08bc6384d",
         "type": "github"
       },
       "original": {
@@ -794,11 +794,11 @@
       },
       "locked": {
         "dir": "v1_0_5",
-        "lastModified": 1658032983,
-        "narHash": "sha256-CdBIpBRWDDPyVGCx9qUxIi9XIWJqXG4RJiALRHfGOeE=",
+        "lastModified": 1658203020,
+        "narHash": "sha256-IB2WlxkQpHQBkX8BLRc+zMdPz20Gf+utzirkRSqqjmo=",
         "owner": "nim-nix-pkgs",
         "repo": "uap",
-        "rev": "01d16cd24a64101653e3cf9bd278ed1c2a22d8c1",
+        "rev": "d46944249e226e34e9b3aa13663c8fb08bc6384d",
         "type": "github"
       },
       "original": {
